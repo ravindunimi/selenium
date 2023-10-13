@@ -1,0 +1,11 @@
+employeeId,email,currency,designation,salary
+emp-1,samplemail1@gmail.com,LKR,ASE,80000
+emp-2,samplemail2@gmail.com,AUD,ASE,80000
+emp-3,samplemail3@gmail.com,USD,ASE,80000
+emp-4,samplemail4@gmail.com,CAD,ASE,80000
+emp-5,samplemail5@gmail.com,LKR,ASE,80000
+emp-6,samplemail6@gmail.com,LKR,SE,80000
+emp-7,samplemail7@gmail.com,LKR,SE,80000
+
+
+

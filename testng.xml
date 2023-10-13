@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+
+    <test name="Admin Portal Login Page Test">
+        <classes>
+            <class name="com.productfy.adminportal_ui_automation.testcases.APLoginPageTest"/>
+        </classes>
+    </test> <!-- Test -->
+
+    <test name="Admin Portal Client Menu Test">
+        <classes>
+            <class name="com.productfy.adminportal_ui_automation.testcases.APClientMenuTest"/>
+        </classes>
+    </test> <!-- Test -->
+
+    <test name="Admin Portal End Users Test">
+        <classes>
+            <class name="com.productfy.adminportal_ui_automation.testcases.APEndUsersPageTest"/>
+        </classes>
+    </test> <!-- Test -->
+
+    <test name="Admin Portal Payments Test">
+        <classes>
+            <class name="com.productfy.adminportal_ui_automation.testcases.APPaymentsPageTest"/>
+        </classes>
+    </test> <!-- Test -->
+
+    <test name="Admin Portal Linked Accounts Test">
+        <classes>
+            <class name="com.productfy.adminportal_ui_automation.testcases.APLinkedAccountsPageTest"/>
+        </classes>
+    </test> <!-- Test -->
+
+    <test name="Admin Portal Task Manager Test">
+        <classes>
+            <class name="com.productfy.adminportal_ui_automation.testcases.APTaskManagerPageTest"/>
+        </classes>
+    </test> <!-- Test -->
+
+    <test name="Admin Portal ACH Returns Test">
+        <classes>
+            <class name="com.productfy.adminportal_ui_automation.testcases.APACHReturnsPageTest"/>
+        </classes>
+    </test> <!-- Test -->
+
+    <test name="Admin Portal ACH Transfers Test">
+        <classes>
+            <class name="com.productfy.adminportal_ui_automation.testcases.APACHTransfersPageTest"/>
+        </classes>
+    </test> <!-- Test -->
+
+</suite> <!-- Suite -->
